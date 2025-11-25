@@ -1,0 +1,3 @@
+Here are all the code and the results produced on the human genome using R/UCSC/ENSEMBL. Stable code, libraries and databases relatively to 2022 releases.
+
+Used on Homo_sapiens.GRCh38.108.gtf and used the rmsk.txt repeatmasker annotation from UCSC.
