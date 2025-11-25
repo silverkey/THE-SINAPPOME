@@ -1,0 +1,3 @@
+Here are all the code and the results produced on the mouse genome using R/UCSC/ENSEMBL. Stable code, libraries and databases relatively to 2022 releases.
+
+Used on Mus_musculus.GRCm39.108.gtf and used the rmsk.txt repeatmasker annotation from UCSC.
