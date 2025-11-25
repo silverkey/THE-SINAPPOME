@@ -1,0 +1,5 @@
+nohup Rscript createTxDbFromEnsemblGTF.R > createTxDbFromEnsemblGTF.log &
+
+nohup Rscript ucscRmskToGRanges.R > ucscRmskToGRanges.log &
+
+nohup Rscript annotateRepeats.R > annotateRepeats.log &
